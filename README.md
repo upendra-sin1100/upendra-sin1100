@@ -1,71 +1,94 @@
 <div align="center">
 
-<!-- Dynamic Typing Header -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=600&lines=Hey+there%2C+I'm+Upendra+%F0%9F%91%8B;ML+%26+Deep+Learning+Engineer;Data+Science+%40+ITM+Gwalior;Researcher+%7C+Builder+%7C+Performer+%F0%9F%8E%AD" alt="Typing SVG" /></a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Upendra%20Singh%20Tomar&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=ML%20Engineer%20%E2%80%A2%20Researcher%20%E2%80%A2%20Data%20Scientist&descAlignY=58&descSize=16&animation=fadeIn" />
 
 <br/>
 
-<!-- Profile Views + Followers -->
-<img src="https://komarev.com/ghpvc/?username=upendra-sin1100&style=for-the-badge&color=6366f1&label=PROFILE+VIEWS" alt="Profile Views"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/upendra-sin1100?style=for-the-badge&color=6366f1&labelColor=1a1a2e&label=FOLLOWERS" alt="Followers"/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=560&lines=Building+AI+that+matters+%F0%9F%A7%A0;B.Tech+CSE+%28Data+Science%29+%40+ITM+Gwalior;Co-authored+Research+in+ML+%2B+Healthcare;Theater+kid+who+codes+%F0%9F%8E%AD" alt="Typing SVG" />
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=upendra-sin1100&style=flat-square&color=7c3aed&label=profile+views" />
+&nbsp;&nbsp;
+<img src="https://img.shields.io/github/followers/upendra-sin1100?style=flat-square&color=7c3aed&labelColor=1e1b4b&label=followers" />
 
 </div>
 
+<br/>
+
 ---
 
-## 🧠 About Me
+## `$ whoami`
 
-```python
-class Upendra:
-    name        = "Upendra Singh Tomar"
-    degree      = "B.Tech CSE (Data Science) @ ITM Gwalior '27"
-    focus       = ["Machine Learning", "Deep Learning", "Data Analysis"]
-    weapons     = ["Python 🐍", "TensorFlow", "scikit-learn"]
-    research    = ["ML in Healthcare", "ML in Supply Chain Optimization"]
-    fun_fact    = "Theater & mime background 🎭 — yes, really."
-
-    def current_goal(self):
-        return "Build intelligent systems that solve real-world problems"
+```yaml
+name     : Upendra Singh Tomar
+degree   : B.Tech Computer Science (Data Science)
+college  : ITM Gwalior  |  Class of 2027
+focus    : Machine Learning · Deep Learning · Data Analysis
+stack    : Python · TensorFlow · scikit-learn · Keras
+research : ML in Healthcare · Generative AI for Materials Science
+extras   : Co-authored 2 papers · Theater & Mime Artist 🎭
 ```
 
 ---
 
-## 🌐 Connect With Me
+## 📄 Research Publications
 
-<div align="center">
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/upendra-singh-tomar-222a41312/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/upendratomar.11)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:upendratomar1100@gmail.com)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-</div>
+### 🏥 Paper 01 — Healthcare AI
+
+**DATA-DRIVEN SUSTAINABILITY: Applying Cognitive Decision Intelligence to Reduce Medical Waste in Pharmaceutical Logistics**
+
+> Leveraging ML models to minimize pharmaceutical waste through intelligent decision-making in supply chains — bridging sustainability and healthcare.
+
+[![Read Paper](https://img.shields.io/badge/Read_Paper-7c3aed?style=for-the-badge&logo=bookstack&logoColor=white)](https://lnkd.in/dcGdXjDQ)
+![ML](https://img.shields.io/badge/Domain-Healthcare_AI-0f766e?style=flat-square)
+![Supply Chain](https://img.shields.io/badge/Tag-Pharmaceutical_Logistics-0369a1?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### ⚗️ Paper 02 — Generative AI
+
+**INVERSE DESIGN: Generative AI for Carbon Capture Materials (MOFs)**
+
+> Using generative deep learning to design novel Metal-Organic Frameworks optimized for CO₂ capture — AI for climate science.
+
+[![Read Paper](https://img.shields.io/badge/Read_Paper-7c3aed?style=for-the-badge&logo=bookstack&logoColor=white)](https://lnkd.in/dAc5sbhY)
+![GenAI](https://img.shields.io/badge/Domain-Generative_AI-7c2d12?style=flat-square)
+![Climate](https://img.shields.io/badge/Tag-Carbon_Capture-166534?style=flat-square)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🔬 Research & Publications
+## 🛠️ Tech Stack
 
-> 📄 **Co-authored research papers exploring ML applications in:**
->
-> `🏥 Healthcare` — Predictive modeling & clinical data intelligence
->
-> `📦 Supply Chain` — Optimization & demand forecasting with ML
+<br/>
 
----
+**Languages & Cloud**
 
-## 💻 Tech Stack
-
-### Languages & Cloud
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-### ML / DL Frameworks
+**ML / DL Frameworks**
+
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### Data & Visualization
+**Data & Visualization**
+
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
@@ -74,26 +97,31 @@ class Upendra:
 
 ---
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=upendra-sin1100&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&title_color=6366f1&icon_color=6366f1" />
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=upendra-sin1100&theme=tokyonight&hide_border=true&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" />
+## 📊 GitHub Stats
 
 <br/>
 
-<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=upendra-sin1100&theme=tokyonight&hide_border=true&layout=compact&title_color=6366f1" />
+<div align="center">
+
+<img height="180px" src="https://github-readme-stats.vercel.app/api?username=upendra-sin1100&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&title_color=a78bfa&icon_color=a78bfa&text_color=e2e8f0&bg_color=0d1117" />
+&nbsp;
+<img height="180px" src="https://nirzak-streak-stats.vercel.app/?user=upendra-sin1100&theme=midnight-purple&hide_border=true&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&background=0d1117&sideLabels=e2e8f0&dates=94a3b8" />
+
+<br/><br/>
+
+<img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=upendra-sin1100&theme=midnight-purple&hide_border=true&layout=compact&title_color=a78bfa&text_color=e2e8f0&bg_color=0d1117" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 Trophies
+
+<br/>
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=upendra-sin1100&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6)
+<img src="https://github-profile-trophy.vercel.app/?username=upendra-sin1100&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=6" />
 
 </div>
 
@@ -101,36 +129,34 @@ class Upendra:
 
 ## 📈 Contribution Graph
 
+<br/>
+
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=upendra-sin1100&theme=tokyo-night&hide_border=true&color=6366f1&line=6366f1&point=ffffff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=upendra-sin1100&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&area_color=7c3aed)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
 ---
 
-## ⚡ Fun Corner
-
-```
-         ML MODEL TRAINING LOG
-  ┌──────────────────────────────────────┐
-  │  Epoch 21/27  [B.Tech Progress]      │
-  │  ████████░░░░░░░  64%                │
-  │                                      │
-  │  loss: confusion ↓ 0.003             │
-  │  acc:  curiosity  ↑ 99.9%            │
-  │  side_quest: theater & mime 🎭       │
-  └──────────────────────────────────────┘
-```
-
----
-
-<div align="center">
-
-*"The goal is to turn data into information, and information into insight."* — Carly Fiorina
+## 🌐 Let's Connect
 
 <br/>
 
-![Wave](https://capsule-render.vercel.app/api?type=waving&color=6366f1&height=100&section=footer)
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/upendra-singh-tomar-222a41312/)
+&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/upendratomar.11)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:upendratomar1100@gmail.com)
+
+<br/><br/>
+
+*"The best model is the one that generalizes — in ML and in life."*
+
+<br/>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
