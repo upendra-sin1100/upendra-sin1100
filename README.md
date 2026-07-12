@@ -183,7 +183,6 @@ Show Image
 </td>
 </tr>
 </table>
-
 <!-- ═══════════════ PROJECT 4 ═══════════════ -->
 <table width="100%">
 <tr>
