@@ -112,7 +112,7 @@ I build things end-to-end — the model that makes the decision, the API that se
 
 <br/>
 
-## 🚀 `~/projects --featured`
+## 🚀 ~/projects --featured
 
 <!-- ═══════════════ PROJECT 1 ═══════════════ -->
 <table width="100%">
@@ -122,23 +122,21 @@ I build things end-to-end — the model that makes the decision, the API that se
 <!-- ↑ PLACEHOLDER: replace with a real screenshot/GIF -->
 </td>
 <td width="65%" valign="top">
-
-### 🏥 Disease X Command Center
+🏥 Disease X Command Center
 
 Real-time hospital triage dashboard. Ingests live patient data, flags critical cases, and ranks urgency using a scikit-learn model — built as an end-to-end DBMS + ML systems project.
 
-**Features:** live data ingestion · critical-case flagging · PostgreSQL-backed patient records · ML-based triage scoring
+Features: live data ingestion · critical-case flagging · PostgreSQL-backed patient records · ML-based triage scoring
 
-**Stack:** `Streamlit` `Supabase` `PostgreSQL` `scikit-learn` `Python`
+Stack: Streamlit Supabase PostgreSQL scikit-learn Python
 
-[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/upendra-sin1100/PLACEHOLDER_REPO_NAME)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://PLACEHOLDER_LIVE_DEMO_URL)
-<!-- PLACEHOLDER: swap in the actual repo slug + hosted demo URL -->
+Show Image
+Show Image
 
+<!-- NOTE: repo link is a best guess based on the deploy URL slug — double-check it points to the right repo -->
 </td>
 </tr>
 </table>
-
 <!-- ═══════════════ PROJECT 2 ═══════════════ -->
 <table width="100%">
 <tr>
@@ -147,23 +145,21 @@ Real-time hospital triage dashboard. Ingests live patient data, flags critical c
 <!-- ↑ PLACEHOLDER: replace with a real screenshot/GIF -->
 </td>
 <td width="65%" valign="top">
+📄 Resume Analyzer
 
-### 📄 Resume Analyzer
+Unsupervised classification pipeline over 78,670 resumes, clustering them into 7 job categories using MiniBatch K-Means + TF-IDF, with a confidence-based fallback to a keyword classifier on low-confidence cases.
 
-Unsupervised classification pipeline over **78,670 resumes**, clustering them into 7 job categories using MiniBatch K-Means + TF-IDF, with a confidence-based fallback to a keyword classifier on low-confidence cases.
+Features: TF-IDF vectorization · MiniBatch K-Means clustering · confidence-thresholded fallback classifier
 
-**Features:** TF-IDF vectorization · MiniBatch K-Means clustering · confidence-thresholded fallback classifier
+Stack: Python scikit-learn Pandas NumPy
 
-**Stack:** `Python` `scikit-learn` `Pandas` `NumPy`
+Show Image
+Show Image
 
-[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/upendra-sin1100/PLACEHOLDER_REPO_NAME)
-<!-- PLACEHOLDER: this project may not have a live demo — remove the badge below if so -->
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://PLACEHOLDER_LIVE_DEMO_URL)
-
+<!-- NOTE: repo link is a best guess based on the deploy URL slug — double-check it points to the right repo -->
 </td>
 </tr>
 </table>
-
 <!-- ═══════════════ PROJECT 3 ═══════════════ -->
 <table width="100%">
 <tr>
@@ -172,19 +168,18 @@ Unsupervised classification pipeline over **78,670 resumes**, clustering them in
 <!-- ↑ PLACEHOLDER: replace with a real screenshot/GIF -->
 </td>
 <td width="65%" valign="top">
+📰 UpFeed — AI News Aggregator
 
-### 📰 UpFeed — AI News Aggregator
+Full-stack news reader that scrapes Reddit and extracts articles via newspaper3k, stores them in Supabase, and serves a fast, personalized feed.
 
-Full-stack news reader that scrapes Reddit and extracts articles via `newspaper3k`, stores them in Supabase, and serves a fast, personalized feed.
+Features: infinite scroll · dark/light mode · text-to-speech · collections & bookmarks · Hindi translation · auto-refresh
 
-**Features:** infinite scroll · dark/light mode · text-to-speech · collections & bookmarks · Hindi translation · auto-refresh
+Stack: React Vite FastAPI Supabase — frontend on Vercel, backend on Render
 
-**Stack:** `React` `Vite` `FastAPI` `Supabase` — frontend on Vercel, backend on Render
+Show Image
+Show Image
 
-[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/upendra-sin1100/upfeed)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://PLACEHOLDER_UPFEED_LIVE_URL)
-<!-- PLACEHOLDER: add the real deployed Vercel URL -->
-
+<!-- NOTE: repo link is a best guess based on the deploy URL slug — double-check it points to the right repo -->
 </td>
 </tr>
 </table>
@@ -197,20 +192,19 @@ Full-stack news reader that scrapes Reddit and extracts articles via `newspaper3
 <!-- ↑ PLACEHOLDER: replace with a real screenshot/GIF -->
 </td>
 <td width="65%" valign="top">
-
-### 🌐 Personal Portfolio
+🌐 Personal Portfolio
 
 Dark cyberpunk personal site with glassmorphism panels and Framer Motion transitions.
 
-**Stack:** `React` `Framer Motion` `Vercel`
+Stack: React Framer Motion Vercel
 
-[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/upendra-sin1100/PLACEHOLDER_REPO_NAME)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://upendrasinghtomarportfolio.vercel.app)
+Show Image
+Show Image
 
+<!-- NOTE: repo link is a best guess based on the deploy URL slug — double-check it points to the right repo -->
 </td>
 </tr>
 </table>
-
 <br/>
 
 ## 📚 `~/publications`
