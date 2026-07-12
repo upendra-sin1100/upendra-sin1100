@@ -1,14 +1,19 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Upendra%20Singh%20Tomar&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=ML%20Engineer%20%E2%80%A2%20Researcher%20%E2%80%A2%20Data%20Scientist&descAlignY=58&descSize=16&animation=fadeIn" />
-
-<br/>
+```
+██╗   ██╗██████╗ ███████╗███╗   ██╗██████╗ ██████╗  █████╗ 
+██║   ██║██╔══██╗██╔════╝████╗  ██║██╔══██╗██╔══██╗██╔══██╗
+██║   ██║██████╔╝█████╗  ██╔██╗ ██║██║  ██║██████╔╝███████║
+██║   ██║██╔═══╝ ██╔══╝  ██║╚██╗██║██║  ██║██╔══██╗██╔══██║
+╚██████╔╝██║     ███████╗██║ ╚████║██████╔╝██║  ██║██║  ██║
+ ╚═════╝ ╚═╝     ╚══════╝╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
+```
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=560&lines=Building+AI+that+matters+%F0%9F%A7%A0;B.Tech+CSE+%28Data+Science%29+%40+ITM+Gwalior;Co-authored+Research+in+ML+%2B+Healthcare;Theater+kid+who+codes+%F0%9F%8E%AD" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=560&lines=Singh+Tomar+%E2%80%94+Data+Science+%40+ITM+Gwalior;Building+ML+%2B+Full-Stack+systems+that+matter;Co-authored+2+research+papers;Theater+kid+who+codes+%F0%9F%8E%AD" alt="Typing SVG" />
 </a>
 
-<br/><br/>
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=upendra-sin1100&style=flat-square&color=7c3aed&label=profile+views" />
 &nbsp;&nbsp;
@@ -18,52 +23,68 @@
 
 <br/>
 
----
-
-## `$ whoami`
-
-```yaml
-name     : Upendra Singh Tomar
-degree   : B.Tech Computer Science (Data Science)
-college  : ITM Gwalior  |  Class of 2027
-focus    : Machine Learning · Deep Learning · Data Analysis
-stack    : Python · TensorFlow · scikit-learn · Keras
-research : ML in Healthcare · Generative AI for Materials Science
-extras   : Co-authored 2 papers · Theater & Mime Artist 🎭
-```
-
----
-
-## 📄 Research Publications
-
-<br/>
+## `$ neofetch`
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="42%" valign="top">
 
-### 🏥 Paper 01 — Healthcare AI
-
-**DATA-DRIVEN SUSTAINABILITY: Applying Cognitive Decision Intelligence to Reduce Medical Waste in Pharmaceutical Logistics**
-
-> Leveraging ML models to minimize pharmaceutical waste through intelligent decision-making in supply chains — bridging sustainability and healthcare.
-
-[![Read Paper](https://img.shields.io/badge/Read_Paper-7c3aed?style=for-the-badge&logo=bookstack&logoColor=white)](https://lnkd.in/dcGdXjDQ)
-![ML](https://img.shields.io/badge/Domain-Healthcare_AI-0f766e?style=flat-square)
-![Supply Chain](https://img.shields.io/badge/Tag-Pharmaceutical_Logistics-0369a1?style=flat-square)
+```
+                     /-------------\-
+                  //--------------\-\\
+                 /--/+--/-----+-------\-
+                |/--+--++--------------\-
+                /-+++-+//----......:.-\-\\
+                -+++------/::..:::::://---\
+                \-+--/::::........-\:\--++\-
+                |-++-/------------------\//
+                \\--------------------\--//
+                ---\/-------//-\-----\--//
+                 \/--:--:::///.\\-..:\/-/
+                 -\-::::::--/-----\:----/
+                  ---\:::::------:::::-//
+                    -\:::----------::---
+                     \\:::::-----:::-//
+                    //---::::::::::-/-
+                   ///-:\-----------:\\
+                   /\/\:----------:::-\\
+              //---/---\:::----:::::///-----
+          /-------.  \---:::--:::::-/// --------
+      /----- /.. ..---\---::-::::::-//-- \.    ----/
+   //--- -    .. .--::-\\-::::::::-//-\\\\..      ----
+  /--         .. .----.\--\-::::/---/----. .  .       --
+ //\      .-  .      ...--\-\-:// -....    .  .\   .   \\
+//.\      .-              .--\----...         ..\ ..    \\
+/.-.   .../                  -/\..             .. ..    \\
+/.\..\  .//    .            /                  .. /   . .\
+```
 
 </td>
-<td width="50%" valign="top">
+<td width="58%" valign="top">
 
-### ⚗️ Paper 02 — Generative AI
+```yaml
+upendra@gwalior
+-----------------------------------------
+Host        : Institute of Technology of Management, Gwalior
+Kernel      : B.Tech Data Science — 3rd Year, 6th Sem
+Uptime      : Sep 2023 → May 2027 (in progress)
+Shell       : python3, mostly at 1 AM
+Also Running: a data-driven marketing agency, Gwalior
 
-**INVERSE DESIGN: Generative AI for Carbon Capture Materials (MOFs)**
+Languages.Programming : Python, JavaScript (React.js)
+Languages.Real         : English, Hindi / Hinglish
 
-> Using generative deep learning to design novel Metal-Organic Frameworks optimized for CO₂ capture — AI for climate science.
-
-[![Read Paper](https://img.shields.io/badge/Read_Paper-7c3aed?style=for-the-badge&logo=bookstack&logoColor=white)](https://lnkd.in/dAc5sbhY)
-![GenAI](https://img.shields.io/badge/Domain-Generative_AI-7c2d12?style=flat-square)
-![Climate](https://img.shields.io/badge/Tag-Carbon_Capture-166534?style=flat-square)
+Focus       : Machine Learning · Deep Learning · Full-Stack
+Papers      : 2 published — IIP Series Vol. 6, IJAMRED
+Hobbies     : Theater & Mime Artist — RGPV University
+              (Central Zone AIU, 2023–2025)
+-----------------------------------------
+Contact
+  Email      upendratomar1100@gmail.com
+  LinkedIn   /in/upendra-singh-tomar-222a41312
+  X          @UpendraTomar_11
+  Portfolio  upendrasinghtomarportfolio.vercel.app
+```
 
 </td>
 </tr>
@@ -71,33 +92,85 @@ extras   : Co-authored 2 papers · Theater & Mime Artist 🎭
 
 ---
 
-## 🛠️ Tech Stack
+## `$ cat about.md`
 
-<br/>
-
-**Languages & Cloud**
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-
-**ML / DL Frameworks**
-
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
-**Data & Visualization**
-
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-0C55A5?style=for-the-badge&logo=scipy&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+I'm a Data Science undergrad who likes building things end-to-end — from the model that makes the decision, to the API that serves it, to the UI someone actually clicks on. Recent work spans healthcare triage dashboards and resume classification pipelines. Off-screen, I'm usually on a theater stage or figuring out how small businesses in Gwalior can market themselves with data instead of guesswork.
 
 ---
 
-## 📊 GitHub Stats
+## `$ ls -la ~/projects`
+
+```
+drwxr-xr-x  disease-x-command-center/  🏥  real-time hospital triage dashboard · Streamlit + Supabase + PostgreSQL
+│                                          live data ingestion, critical-case flagging, scikit-learn model
+│
+drwxr-xr-x  resume-analyzer/           📄  MiniBatch K-Means + TF-IDF over 78,670 resumes → 7 job categories
+│                                          confidence-based fallback to a keyword classifier on low-confidence cases
+│
+drwxr-xr-x  upfeed/                    📰  React.js news aggregator · GNews API + NewsAPI, category filtering
+│
+drwxr-xr-x  portfolio/                 🌐  personal site · dark cyberpunk UI, Framer Motion, glassmorphism
+                                           → upendrasinghtomarportfolio.vercel.app
+```
+
+---
+
+## `$ tree ~/publications`
+
+```
+publications/
+├── data-driven-sustainability-in-pharma-logistics/
+│   "DATA-DRIVEN SUSTAINABILITY: Applying Cognitive Decision Intelligence
+│    to Reduce Medical Waste in Pharmaceutical Logistics"
+│   Book   : Integrating NLP and Big Data for Cognitive Decision Intelligence
+│            in Business, Healthcare, and Governance — IIP Series, Volume 6
+│   e-ISBN : 978-93-7020-972-5
+│   DOI    : https://lnkd.in/dcGdXjDQ
+│   Book   : https://lnkd.in/dYPqamxw
+│   Team   : Mahak · Ujjwal Kushwah · Keshav Prabhakar
+│
+└── inverse-design-generative-ai-for-mofs/
+    "Inverse Design: Generative AI for Carbon Capture Materials (MOFs)"
+    Journal : IJAMRED, Online Edition (Nov–Dec 2025)
+    Read    : https://www.ijamred.com/volume1/issue4/IJAMRED-V1I4P96.pdf
+    Online  : https://lnkd.in/dY5jxVUK
+    Issue   : https://lnkd.in/djuZiX4F
+```
+
+---
+
+## `$ tree ~/stack`
+
+```
+stack/
+├── languages/            Python · JavaScript (React.js)
+├── ml-dl/                Scikit-Learn · TensorFlow · Keras · Hugging Face Transformers
+│                         Pandas · NumPy · Matplotlib · Seaborn
+├── backend-apis/         FastAPI · WebSockets · JWT · Streamlit
+├── data-and-cloud/       PostgreSQL · MongoDB · Supabase · AWS
+└── tools/                Git & GitHub · Vercel · LaTeX
+```
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+</div>
+
+---
+
+## `$ git log --stats`
 
 <br/>
 
@@ -115,7 +188,21 @@ extras   : Co-authored 2 papers · Theater & Mime Artist 🎭
 
 ---
 
-## 🏆 Trophies
+## `$ ./contribution-snake.sh`
+
+<br/>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/upendra-sin1100/upendra-sin1100/output/github-contribution-grid-snake.svg" alt="contribution snake animation" />
+
+</div>
+
+> 🐍 This animates your contribution graph as a snake eating your commit squares. It needs a one-time GitHub Action in this repo — see `snake.yml` (provided alongside this file) for the exact workflow to drop in under `.github/workflows/`. Until that workflow runs once, this image will show broken.
+
+---
+
+## `$ ./trophies.sh`
 
 <br/>
 
@@ -127,7 +214,7 @@ extras   : Co-authored 2 papers · Theater & Mime Artist 🎭
 
 ---
 
-## 📈 Contribution Graph
+## `$ contribution --graph`
 
 <br/>
 
@@ -139,7 +226,7 @@ extras   : Co-authored 2 papers · Theater & Mime Artist 🎭
 
 ---
 
-## 🌐 Let's Connect
+## `$ ping upendra --connect`
 
 <br/>
 
@@ -147,16 +234,18 @@ extras   : Co-authored 2 papers · Theater & Mime Artist 🎭
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/upendra-singh-tomar-222a41312/)
 &nbsp;
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/UpendraTomar_11)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://upendrasinghtomarportfolio.vercel.app)
+&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/upendratomar.11)
 &nbsp;
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:upendratomar1100@gmail.com)
 
 <br/><br/>
 
-*"The best model is the one that generalizes — in ML and in life."*
-
-<br/>
+```
+$ echo "the best model is the one that generalizes — in ML and in life."
+```
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
