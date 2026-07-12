@@ -1,251 +1,287 @@
+<!--
+  ═══════════════════════════════════════════════════════════════
+  README.md — GitHub Profile
+  Style: Dark Cyberpunk / Terminal / Glassmorphism
+  ═══════════════════════════════════════════════════════════════
+  HOW TO USE THIS FILE
+  1. Replace every occurrence of "upendra-sin1100" with YOUR_USERNAME
+     (only if this isn't already your handle).
+  2. Search for "PLACEHOLDER" — each marks a link/image you must
+     supply (repo URL, live demo, screenshot, cert, etc).
+  3. Drop this file into a repo named EXACTLY your username
+     (e.g. github.com/upendra-sin1100/upendra-sin1100).
+  4. You said snake.yml is already in .github/workflows/ — good,
+     the snake section below will render once it's run once.
+  ═══════════════════════════════════════════════════════════════
+-->
+
 <div align="center">
 
-```
-██╗   ██╗██████╗ ███████╗███╗   ██╗██████╗ ██████╗  █████╗ 
-██║   ██║██╔══██╗██╔════╝████╗  ██║██╔══██╗██╔══██╗██╔══██╗
-██║   ██║██████╔╝█████╗  ██╔██╗ ██║██║  ██║██████╔╝███████║
-██║   ██║██╔═══╝ ██╔══╝  ██║╚██╗██║██║  ██║██╔══██╗██╔══██║
-╚██████╔╝██║     ███████╗██║ ╚████║██████╔╝██║  ██║██║  ██║
- ╚═════╝ ╚═╝     ╚══════╝╚═╝  ╚═══╝╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝
-```
+<!-- Gradient header banner -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e1b4b,100:0d1117&height=200&section=header&text=UPENDRA%20SINGH%20TOMAR&fontSize=42&fontColor=a78bfa&animation=fadeIn&fontAlignY=38&desc=Data%20Science%20%40%20ITM%20Gwalior%20%7C%20ML%20%2B%20Full-Stack&descAlignY=58&descSize=18&descColor=94a3b8" />
 
+<!-- Animated typing banner -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=560&lines=Singh+Tomar+%E2%80%94+Data+Science+%40+ITM+Gwalior;Building+ML+%2B+Full-Stack+systems+that+matter;Co-authored+2+research+papers;Theater+kid+who+codes+%F0%9F%8E%AD" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=680&lines=Building+ML+%2B+Full-Stack+systems+that+matter;Real-time+triage+dashboards+%C2%B7+NLP+%C2%B7+Speech+Enhancement;Co-authored+2+published+research+papers;Theater+%26+Mime+Artist+%E2%80%94+RGPV+Central+Zone;the+best+model+is+the+one+that+generalizes." alt="Typing SVG" />
 </a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=upendra-sin1100&style=flat-square&color=7c3aed&label=profile+views" />
-&nbsp;&nbsp;
-<img src="https://img.shields.io/github/followers/upendra-sin1100?style=flat-square&color=7c3aed&labelColor=1e1b4b&label=followers" />
+<!-- Badges row -->
+<img src="https://komarev.com/ghpvc/?username=upendra-sin1100&style=for-the-badge&color=7c3aed&labelColor=0d1117&label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/upendra-sin1100?style=for-the-badge&color=7c3aed&labelColor=0d1117&label=FOLLOWERS" />
+<img src="https://img.shields.io/badge/STATUS-ONLINE-a78bfa?style=for-the-badge&labelColor=0d1117" />
+
+<br/><br/>
+
+<img src="https://raw.githubusercontent.com/upendra-sin1100/upendra-sin1100/main/assets/divider-purple.svg" width="100%" alt="divider" onerror="this.style.display='none'" />
+<!-- ↑ Optional custom SVG divider — safe to delete this <img> if you don't add the asset -->
 
 </div>
 
 <br/>
 
-## `$ neofetch`
+## 📟 `~/whoami --verbose`
 
-<table>
+<table width="100%">
 <tr>
-<td width="42%" valign="top">
-
-```
-                     /-------------\-
-                  //--------------\-\\
-                 /--/+--/-----+-------\-
-                |/--+--++--------------\-
-                /-+++-+//----......:.-\-\\
-                -+++------/::..:::::://---\
-                \-+--/::::........-\:\--++\-
-                |-++-/------------------\//
-                \\--------------------\--//
-                ---\/-------//-\-----\--//
-                 \/--:--:::///.\\-..:\/-/
-                 -\-::::::--/-----\:----/
-                  ---\:::::------:::::-//
-                    -\:::----------::---
-                     \\:::::-----:::-//
-                    //---::::::::::-/-
-                   ///-:\-----------:\\
-                   /\/\:----------:::-\\
-              //---/---\:::----:::::///-----
-          /-------.  \---:::--:::::-/// --------
-      /----- /.. ..---\---::-::::::-//-- \.    ----/
-   //--- -    .. .--::-\\-::::::::-//-\\\\..      ----
-  /--         .. .----.\--\-::::/---/----. .  .       --
- //\      .-  .      ...--\-\-:// -....    .  .\   .   \\
-//.\      .-              .--\----...         ..\ ..    \\
-/.-.   .../                  -/\..             .. ..    \\
-/.\..\  .//    .            /                  .. /   . .\
-```
-
-</td>
-<td width="58%" valign="top">
+<td width="100%">
 
 ```yaml
-upendra@gwalior
------------------------------------------
-Host        : Institute of Technology of Management, Gwalior
-Kernel      : B.Tech Data Science — 3rd Year, 6th Sem
-Uptime      : Sep 2023 → May 2027 (in progress)
-Shell       : python3, mostly at 1 AM
-Also Running: a data-driven marketing agency, Gwalior
+upendra@gwalior ➜ ~
+───────────────────────────────────────────────────────────
+host        : Institute of Technology of Management, Gwalior
+degree      : B.Tech, Data Science — 3rd Year / 6th Semester
+uptime      : Sep 2023 → May 2027 (in progress)
+shell       : python3, mostly past midnight
+papers      : 2 published — IIP Series Vol. 6 · IJAMRED
+stage       : theater & mime artist, RGPV Central Zone (2023–2025)
 
-Languages.Programming : Python, JavaScript (React.js)
-Languages.Real         : English, Hindi / Hinglish
-
-Focus       : Machine Learning · Deep Learning · Full-Stack
-Papers      : 2 published — IIP Series Vol. 6, IJAMRED
-Hobbies     : Theater & Mime Artist — RGPV University
-              (Central Zone AIU, 2023–2025)
------------------------------------------
-Contact
-  Email      upendratomar1100@gmail.com
-  LinkedIn   /in/upendra-singh-tomar-222a41312
-  X          @UpendraTomar_11
-  Portfolio  upendrasinghtomarportfolio.vercel.app
+degree.progress : [███████████████░░░░░] 6/8 semesters — 75%
+───────────────────────────────────────────────────────────
 ```
 
 </td>
 </tr>
 </table>
 
----
-
-## `$ cat about.md`
-
-I'm a Data Science undergrad who likes building things end-to-end — from the model that makes the decision, to the API that serves it, to the UI someone actually clicks on. Recent work spans healthcare triage dashboards and resume classification pipelines. Off-screen, I'm usually on a theater stage or figuring out how small businesses in Gwalior can market themselves with data instead of guesswork.
-
----
-
-## `$ ls -la ~/projects`
-
-```
-drwxr-xr-x  disease-x-command-center/  🏥  real-time hospital triage dashboard · Streamlit + Supabase + PostgreSQL
-│                                          live data ingestion, critical-case flagging, scikit-learn model
-│
-drwxr-xr-x  resume-analyzer/           📄  MiniBatch K-Means + TF-IDF over 78,670 resumes → 7 job categories
-│                                          confidence-based fallback to a keyword classifier on low-confidence cases
-│
-drwxr-xr-x  upfeed/                    📰  React.js news aggregator · GNews API + NewsAPI, category filtering
-│
-drwxr-xr-x  portfolio/                 🌐  personal site · dark cyberpunk UI, Framer Motion, glassmorphism
-                                           → upendrasinghtomarportfolio.vercel.app
-```
-
----
-
-## `$ tree ~/publications`
-
-```
-publications/
-├── data-driven-sustainability-in-pharma-logistics/
-│   "DATA-DRIVEN SUSTAINABILITY: Applying Cognitive Decision Intelligence
-│    to Reduce Medical Waste in Pharmaceutical Logistics"
-│   Book   : Integrating NLP and Big Data for Cognitive Decision Intelligence
-│            in Business, Healthcare, and Governance — IIP Series, Volume 6
-│   e-ISBN : 978-93-7020-972-5
-│   DOI    : https://lnkd.in/dcGdXjDQ
-│   Book   : https://lnkd.in/dYPqamxw
-│   Team   : Mahak · Ujjwal Kushwah · Keshav Prabhakar
-│
-└── inverse-design-generative-ai-for-mofs/
-    "Inverse Design: Generative AI for Carbon Capture Materials (MOFs)"
-    Journal : IJAMRED, Online Edition (Nov–Dec 2025)
-    Read    : https://www.ijamred.com/volume1/issue4/IJAMRED-V1I4P96.pdf
-    Online  : https://lnkd.in/dY5jxVUK
-    Issue   : https://lnkd.in/djuZiX4F
-```
-
----
-
-## `$ tree ~/stack`
-
-```
-stack/
-├── languages/            Python · JavaScript (React.js)
-├── ml-dl/                Scikit-Learn · TensorFlow · Keras · Hugging Face Transformers
-│                         Pandas · NumPy · Matplotlib · Seaborn
-├── backend-apis/         FastAPI · WebSockets · JWT · Streamlit
-├── data-and-cloud/       PostgreSQL · MongoDB · Supabase · AWS
-└── tools/                Git & GitHub · Vercel · LaTeX
-```
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-
-</div>
-
----
-
-## `$ git log --stats`
+I build things end-to-end — the model that makes the decision, the API that serves it, and the UI someone actually clicks on. Recent work spans real-time hospital triage systems, NLP pipelines and AI-assisted code editor.
 
 <br/>
 
+## 🧬 `~/tech-stack`
+
 <div align="center">
 
-<img height="180px" src="https://github-readme-stats.vercel.app/api?username=upendra-sin1100&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&title_color=a78bfa&icon_color=a78bfa&text_color=e2e8f0&bg_color=0d1117" />
-&nbsp;
-<img height="180px" src="https://nirzak-streak-stats.vercel.app/?user=upendra-sin1100&theme=midnight-purple&hide_border=true&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&background=0d1117&sideLabels=e2e8f0&dates=94a3b8" />
+**Languages & Core**
+
+<img src="https://skillicons.dev/icons?i=python,js&theme=dark" />
+
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind&theme=dark" />
+
+**Backend**
+
+<img src="https://skillicons.dev/icons?i=fastapi,py&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/WebSockets-000000?style=for-the-badge&logo=socketdotio&logoColor=white" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
+
+**AI / ML**
+
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch&theme=dark" />
+<br/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" />
+<img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-FFD21E?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+
+**Database & Cloud**
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,aws&theme=dark" />
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vercel,latex&theme=dark" />
+
+</div>
+
+<br/>
+
+## 🚀 `~/projects --featured`
+
+<!-- ═══════════════ PROJECT 1 ═══════════════ -->
+<table width="100%">
+<tr>
+<td width="35%" valign="top">
+<img src="https://via.placeholder.com/400x260/0d1117/a78bfa?text=Disease+X+Command+Center" width="100%" style="border-radius:8px" />
+<!-- ↑ PLACEHOLDER: replace with a real screenshot/GIF -->
+</td>
+<td width="65%" valign="top">
+
+### 🏥 Disease X Command Center
+
+Real-time hospital triage dashboard. Ingests live patient data, flags critical cases, and ranks urgency using a scikit-learn model — built as an end-to-end DBMS + ML systems project.
+
+**Features:** live data ingestion · critical-case flagging · PostgreSQL-backed patient records · ML-based triage scoring
+
+**Stack:** `Streamlit` `Supabase` `PostgreSQL` `scikit-learn` `Python`
+
+[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/upendra-sin1100/PLACEHOLDER_REPO_NAME)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://PLACEHOLDER_LIVE_DEMO_URL)
+<!-- PLACEHOLDER: swap in the actual repo slug + hosted demo URL -->
+
+</td>
+</tr>
+</table>
+
+<!-- ═══════════════ PROJECT 2 ═══════════════ -->
+<table width="100%">
+<tr>
+<td width="35%" valign="top">
+<img src="https://via.placeholder.com/400x260/0d1117/a78bfa?text=Resume+Analyzer" width="100%" style="border-radius:8px" />
+<!-- ↑ PLACEHOLDER: replace with a real screenshot/GIF -->
+</td>
+<td width="65%" valign="top">
+
+### 📄 Resume Analyzer
+
+Unsupervised classification pipeline over **78,670 resumes**, clustering them into 7 job categories using MiniBatch K-Means + TF-IDF, with a confidence-based fallback to a keyword classifier on low-confidence cases.
+
+**Features:** TF-IDF vectorization · MiniBatch K-Means clustering · confidence-thresholded fallback classifier
+
+**Stack:** `Python` `scikit-learn` `Pandas` `NumPy`
+
+[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/upendra-sin1100/PLACEHOLDER_REPO_NAME)
+<!-- PLACEHOLDER: this project may not have a live demo — remove the badge below if so -->
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://PLACEHOLDER_LIVE_DEMO_URL)
+
+</td>
+</tr>
+</table>
+
+<!-- ═══════════════ PROJECT 3 ═══════════════ -->
+<table width="100%">
+<tr>
+<td width="35%" valign="top">
+<img src="https://via.placeholder.com/400x260/0d1117/a78bfa?text=UpFeed" width="100%" style="border-radius:8px" />
+<!-- ↑ PLACEHOLDER: replace with a real screenshot/GIF -->
+</td>
+<td width="65%" valign="top">
+
+### 📰 UpFeed — AI News Aggregator
+
+Full-stack news reader that scrapes Reddit and extracts articles via `newspaper3k`, stores them in Supabase, and serves a fast, personalized feed.
+
+**Features:** infinite scroll · dark/light mode · text-to-speech · collections & bookmarks · Hindi translation · auto-refresh
+
+**Stack:** `React` `Vite` `FastAPI` `Supabase` — frontend on Vercel, backend on Render
+
+[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/upendra-sin1100/upfeed)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://PLACEHOLDER_UPFEED_LIVE_URL)
+<!-- PLACEHOLDER: add the real deployed Vercel URL -->
+
+</td>
+</tr>
+</table>
+
+<!-- ═══════════════ PROJECT 4 ═══════════════ -->
+<table width="100%">
+<tr>
+<td width="35%" valign="top">
+<img src="https://via.placeholder.com/400x260/0d1117/a78bfa?text=Portfolio" width="100%" style="border-radius:8px" />
+<!-- ↑ PLACEHOLDER: replace with a real screenshot/GIF -->
+</td>
+<td width="65%" valign="top">
+
+### 🌐 Personal Portfolio
+
+Dark cyberpunk personal site with glassmorphism panels and Framer Motion transitions.
+
+**Stack:** `React` `Framer Motion` `Vercel`
+
+[![Repo](https://img.shields.io/badge/Repository-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/upendra-sin1100/PLACEHOLDER_REPO_NAME)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=flat-square&logo=vercel&logoColor=white)](https://upendrasinghtomarportfolio.vercel.app)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📚 `~/publications`
+
+<table width="100%">
+<tr>
+<td>
+
+**"Data-Driven Sustainability: Applying Cognitive Decision Intelligence to Reduce Medical Waste in Pharmaceutical Logistics"**
+📖 *Integrating NLP and Big Data for Cognitive Decision Intelligence in Business, Healthcare, and Governance* — IIP Series, Vol. 6
+`e-ISBN 978-93-7020-972-5` · [DOI](https://lnkd.in/dcGdXjDQ) · [Book](https://lnkd.in/dYPqamxw)
+Co-authors: Mahak · Ujjwal Kushwah · Keshav Prabhakar
+
+**"Inverse Design: Generative AI for Carbon Capture Materials (MOFs)"**
+📖 IJAMRED, Online Edition (Nov–Dec 2025)
+[Read the paper](https://www.ijamred.com/volume1/issue4/IJAMRED-V1I4P96.pdf) · [Online](https://lnkd.in/dY5jxVUK) · [Issue](https://lnkd.in/djuZiX4F)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 📊 `~/github-analytics`
+
+<div align="center">
+
+<img height="165px" src="https://github-readme-stats.vercel.app/api?username=upendra-sin1100&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&title_color=a78bfa&icon_color=a78bfa&text_color=e2e8f0&bg_color=0d1117" />
+<img height="165px" src="https://nirzak-streak-stats.vercel.app/?user=upendra-sin1100&theme=midnight-purple&hide_border=true&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa&background=0d1117&sideLabels=e2e8f0&dates=94a3b8" />
+
+<br/>
+
+<img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=upendra-sin1100&theme=midnight-purple&hide_border=true&layout=compact&title_color=a78bfa&text_color=e2e8f0&bg_color=0d1117" />
 
 <br/><br/>
 
-<img height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=upendra-sin1100&theme=midnight-purple&hide_border=true&layout=compact&title_color=a78bfa&text_color=e2e8f0&bg_color=0d1117" />
-
-</div>
-
----
-
-## `$ ./contribution-snake.sh`
-
-<br/>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/upendra-sin1100/upendra-sin1100/output/github-contribution-grid-snake.svg" alt="contribution snake animation" />
-
-</div>
-
-> 🐍 This animates your contribution graph as a snake eating your commit squares. It needs a one-time GitHub Action in this repo — see `snake.yml` (provided alongside this file) for the exact workflow to drop in under `.github/workflows/`. Until that workflow runs once, this image will show broken.
-
----
-
-## `$ ./trophies.sh`
-
-<br/>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=upendra-sin1100&theme=onestar&no-frame=true&no-bg=true&margin-w=8&column=6" />
-
-</div>
-
----
-
-## `$ contribution --graph`
-
-<br/>
-
-<div align="center">
-
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=upendra-sin1100&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&area_color=7c3aed)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<br/>
+
+<!-- Snake contribution animation — you already have snake.yml wired up in .github/workflows/,
+     so this will render automatically after the workflow's first run -->
+<img src="https://raw.githubusercontent.com/upendra-sin1100/upendra-sin1100/output/github-contribution-grid-snake.svg" alt="contribution snake animation" width="100%" />
+
 </div>
 
----
-
-## `$ ping upendra --connect`
-
 <br/>
+
+## 📡 `~/connect --all`
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/upendra-singh-tomar-222a41312/)
-&nbsp;
 [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/UpendraTomar_11)
-&nbsp;
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://upendrasinghtomarportfolio.vercel.app)
-&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/upendratomar.11)
-&nbsp;
+[![Hugging Face](https://img.shields.io/badge/🤗%20Hugging%20Face-FFD21E?style=for-the-badge)](https://huggingface.co/UpendraTomar)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:upendratomar1100@gmail.com)
 
-<br/><br/>
+</div>
+
+<br/>
+
+<div align="center">
 
 ```
 $ echo "the best model is the one that generalizes — in ML and in life."
 ```
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1e1b4b,100:0d1117&height=120&section=footer" />
+
+<a href="#top">⬆ back to top</a>
 
 </div>
