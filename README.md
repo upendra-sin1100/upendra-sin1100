@@ -58,7 +58,7 @@ $ whoami
 </td>
 <td width="35%" align="center" valign="top">
 
-<img src="https://github-readme-stats.vercel.app/api?username=upendra-sin1100&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&title_color=a78bfa&icon_color=7c3aed&bg_color=0d1117&text_color=c4b5fd&ring_color=7c3aed" alt="stats" width="100%" />
+<img src="https://github-profile-trophy.vercel.app/?username=upendra-sin1100&theme=discord&no-frame=true&row=2&column=3&margin-w=8&margin-h=8" alt="trophies" width="100%" />
 
 </td>
 </tr>
@@ -248,8 +248,8 @@ Investigated generative AI approaches for designing Metal-Organic Frameworks opt
 
 <div align="center">
 
-<img height="180px" src="https://github-readme-stats.vercel.app/api?username=upendra-sin1100&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&title_color=a78bfa&icon_color=7c3aed&bg_color=0d1117&text_color=c4b5fd" alt="stats" />
-<img height="180px" src="https://nirzak-streak-stats.vercel.app/?user=upendra-sin1100&theme=midnight-purple&hide_border=true&ring=a78bfa&fire=a78bfa&currStreakLabel=c4b5fd&background=0d1117&sideLabels=a78bfa&dates=7c3aed" alt="streak" />
+<img height="180px" src="https://github-readme-stats.vercel.app/api?username=upendra-sin1100&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true&title_color=a78bfa&icon_color=7c3aed&bg_color=0d1117&text_color=c4b5fd&rank_icon=github" alt="stats" />
+<img height="180px" src="https://streak-stats.demolab.com/?user=upendra-sin1100&theme=midnight-purple&hide_border=true&ring=a78bfa&fire=a78bfa&currStreakLabel=c4b5fd&background=0d1117&sideLabels=a78bfa&dates=7c3aed&stroke=7c3aed" alt="streak" />
 
 <br/>
 
